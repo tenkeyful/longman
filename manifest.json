@@ -3,7 +3,7 @@
   "version": "1.0.4",
   "name": "LDOCE",
   "description": "Select a word or phrase, right click, and choose LDOCE to look up its definition on Longman Dictionary of Contemporary English seamlessly.",
-  "author": "Nhân Trí",
+  "author": "winedows",
   "homepage_url": "https://github.com/tenkeyful/longman",
   "icons": {
     "16": "icon.png",
